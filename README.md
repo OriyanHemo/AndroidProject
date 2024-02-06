@@ -24,16 +24,9 @@ library dependency technique
 
 ## Getting Started
 
-Include instructions on how to set up and run your project. This may include steps like:
-
 1. Clone the repository.
 2. Install dependencies.
 3. Configure any settings.
 4. Build and run the project.
 
 
-Give credit to any individuals, projects, or resources that inspired or helped you during the development of this project.
-
-## Contact
-
-Provide your contact information or a way for users to reach out if they have questions or feedback.

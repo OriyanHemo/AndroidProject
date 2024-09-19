@@ -1,6 +1,6 @@
-# R&D Project
+# R&D NSO Project
 This R&D project is used for manipulate a libraries using "NEEDED" library dependency technique.
-## Oriyan's Student Position Project
+## Oriyan's NSO Student Position Project
 
 Welcome to my project! This project was a great learning experience for me as I delved into Android Studio and explored new programming techniques.
 

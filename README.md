@@ -1,8 +1,8 @@
-# NSOProject
+# Project Overview
 This project is used for manipulate a libraries using "NEEDED" library dependency technique.
 ## Oriyan's Student Position Project
 
-Welcome to NSOProject! This project was a great learning experience for me as I delved into Android Studio and explored new programming techniques.
+Welcome to AndroidProject! This project was a great learning experience for me as I delved into Android Studio and explored new programming techniques.
 
 ## Project Overview
 
